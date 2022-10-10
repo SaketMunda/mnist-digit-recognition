@@ -1,2 +1,2 @@
-# mnist-digit-recognition
+# Digit Recognition
 Determine Handwritten Digits using Neural Network
