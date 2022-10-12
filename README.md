@@ -4,7 +4,7 @@ Deep Learning model for Handwritten Digit Recognition using TensorFlow and Neura
 
 ## 1. Problem Definition ⛑
 
-Recognise handwritten digit, from a dataset which contains B&W images of each digit written on 28x28 pixel box, given by (The MNIST DATABASE)[http://yann.lecun.com/exdb/mnist/]
+Recognise handwritten digit, from a dataset which contains B&W images of each digit written on 28x28 pixel box, given by [The MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
 
 ## 2. Dataset
 
