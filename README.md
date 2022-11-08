@@ -28,3 +28,7 @@ Neural Network Multi-class Classification Model
 
 ## 6. Results
 `Last Successful Run`: **Accuracy** was **96%**
+
+## Idea (Improvisation) 💡
+- [ ] Build a screen where kids can practice writing digits and machine will tell which number it was 
+- [ ] We can include formulas and signs in the dataset and train our model to convert it into a full fledged hand operated calculator where anyone can practice some mathematical formulas.
